@@ -1,0 +1,9 @@
+.card {
+	padding: 0;
+}
+.card_left {
+	background-color: aqua;
+}
+.card_right {
+	background-color: blueviolet;
+}
